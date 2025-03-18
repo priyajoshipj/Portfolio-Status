@@ -1,0 +1,11 @@
+.load-more {
+    text-align: center;
+    padding: 20px;
+    background: #fff;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    max-width: 1400px;
+    color: #666;
+    font-weight: 500;
+} 
